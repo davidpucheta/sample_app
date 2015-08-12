@@ -1,3 +1,5 @@
-https://www.railstutorial.org/book/filling_in_the_layout
+https://www.railstutorial.org
 
-5.2.2 Syntactically awesome stylesheets
+Chapter 6 -
+
+6.3.4 Creating and authenticating a user
