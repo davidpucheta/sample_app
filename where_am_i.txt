@@ -1,5 +1,5 @@
 https://www.railstutorial.org
 
-Chapter 6 -
+Chapter 7
 
-6.3.4 Creating and authenticating a user
+7.4 Successful signups
